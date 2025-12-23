@@ -1,0 +1,157 @@
+{
+  "title": "Module 2 Quiz: Environmental Stewardship and Net Zero",
+  "type": "quiz",
+  "passingScore": 80,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which geothermal station is now operational and can power approximately 200,000 homes?",
+      "questionHtml": "<p>Which geothermal station is now operational and can power approximately 200,000 homes?</p>",
+      "answers": [
+        {"id": "q1_a", "text": "Tauhara", "textHtml": "<p>Tauhara</p>", "correct": true},
+        {"id": "q1_b", "text": "Te Mihi", "textHtml": "<p>Te Mihi</p>", "correct": false},
+        {"id": "q1_c", "text": "Wairakei", "textHtml": "<p>Wairakei</p>", "correct": false},
+        {"id": "q1_d", "text": "Te Huka", "textHtml": "<p>Te Huka</p>", "correct": false}
+      ],
+      "feedback": "Tauhara is Contact's newest geothermal station, now operational and capable of powering approximately 200,000 homes with clean, renewable energy.",
+      "feedbackHtml": "<p>Tauhara is Contact's newest geothermal station, now operational and capable of powering approximately 200,000 homes with clean, renewable energy.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "How many solar panels will be installed at Kōwhai Park Solar Farm?",
+      "questionHtml": "<p>How many solar panels will be installed at Kōwhai Park Solar Farm?</p>",
+      "answers": [
+        {"id": "q2_a", "text": "300,000 panels", "textHtml": "<p>300,000 panels</p>", "correct": true},
+        {"id": "q2_b", "text": "100,000 panels", "textHtml": "<p>100,000 panels</p>", "correct": false},
+        {"id": "q2_c", "text": "500,000 panels", "textHtml": "<p>500,000 panels</p>", "correct": false},
+        {"id": "q2_d", "text": "200,000 panels", "textHtml": "<p>200,000 panels</p>", "correct": false}
+      ],
+      "feedback": "Kōwhai Park Solar Farm near Christchurch Airport will have 300,000 solar panels, making it one of New Zealand's largest solar installations.",
+      "feedbackHtml": "<p>Kōwhai Park Solar Farm near Christchurch Airport will have 300,000 solar panels, making it one of New Zealand's largest solar installations.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_CHOICE",
+      "question": "By what year will Contact cease discharging cooling water into the Waikato River?",
+      "questionHtml": "<p>By what year will Contact cease discharging cooling water into the Waikato River?</p>",
+      "answers": [
+        {"id": "q3_a", "text": "No later than 2031", "textHtml": "<p>No later than 2031</p>", "correct": true},
+        {"id": "q3_b", "text": "By 2025", "textHtml": "<p>By 2025</p>", "correct": false},
+        {"id": "q3_c", "text": "By 2035", "textHtml": "<p>By 2035</p>", "correct": false},
+        {"id": "q3_d", "text": "By 2040", "textHtml": "<p>By 2040</p>", "correct": false}
+      ],
+      "feedback": "Contact has committed to ceasing cooling water discharge into the Waikato River no later than 2031 as part of our water stewardship commitments.",
+      "feedbackHtml": "<p>Contact has committed to ceasing cooling water discharge into the Waikato River no later than 2031 as part of our water stewardship commitments.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is the first step in Contact's mitigation hierarchy for managing environmental impacts?",
+      "questionHtml": "<p>What is the first step in Contact's mitigation hierarchy for managing environmental impacts?</p>",
+      "answers": [
+        {"id": "q4_a", "text": "Avoid", "textHtml": "<p>Avoid</p>", "correct": true},
+        {"id": "q4_b", "text": "Minimise", "textHtml": "<p>Minimise</p>", "correct": false},
+        {"id": "q4_c", "text": "Restore", "textHtml": "<p>Restore</p>", "correct": false},
+        {"id": "q4_d", "text": "Offset", "textHtml": "<p>Offset</p>", "correct": false}
+      ],
+      "feedback": "The mitigation hierarchy begins with Avoid—preventing impacts where possible—followed by Minimise, Restore, Offset, and Compensate.",
+      "feedbackHtml": "<p>The mitigation hierarchy begins with Avoid—preventing impacts where possible—followed by Minimise, Restore, Offset, and Compensate.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "How many native trees did Contact plant in FY25?",
+      "questionHtml": "<p>How many native trees did Contact plant in FY25?</p>",
+      "answers": [
+        {"id": "q5_a", "text": "62,978 trees", "textHtml": "<p>62,978 trees</p>", "correct": true},
+        {"id": "q5_b", "text": "20,000 trees", "textHtml": "<p>20,000 trees</p>", "correct": false},
+        {"id": "q5_c", "text": "15,000 trees", "textHtml": "<p>15,000 trees</p>", "correct": false},
+        {"id": "q5_d", "text": "100,000 trees", "textHtml": "<p>100,000 trees</p>", "correct": false}
+      ],
+      "feedback": "Contact planted 62,978 native trees in FY25, exceeding our commitment to plant more than 20,000 indigenous plants annually.",
+      "feedbackHtml": "<p>Contact planted 62,978 native trees in FY25, exceeding our commitment to plant more than 20,000 indigenous plants annually.</p>"
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What are Scope 1 emissions?",
+      "questionHtml": "<p>What are Scope 1 emissions?</p>",
+      "answers": [
+        {"id": "q6_a", "text": "Direct emissions from sources we own or control", "textHtml": "<p>Direct emissions from sources we own or control</p>", "correct": true},
+        {"id": "q6_b", "text": "Emissions from purchased electricity", "textHtml": "<p>Emissions from purchased electricity</p>", "correct": false},
+        {"id": "q6_c", "text": "Emissions from our supply chain", "textHtml": "<p>Emissions from our supply chain</p>", "correct": false},
+        {"id": "q6_d", "text": "Customer emissions", "textHtml": "<p>Customer emissions</p>", "correct": false}
+      ],
+      "feedback": "Scope 1 emissions are direct emissions from sources we own or control, such as burning natural gas in thermal power stations or CO2 from geothermal processes.",
+      "feedbackHtml": "<p>Scope 1 emissions are direct emissions from sources we own or control, such as burning natural gas in thermal power stations or CO2 from geothermal processes.</p>"
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which of the following are key strategies Contact uses to reach net zero? (Select all that apply)",
+      "questionHtml": "<p>Which of the following are key strategies Contact uses to reach net zero? (Select all that apply)</p>",
+      "answers": [
+        {"id": "q7_a", "text": "Investment in new renewable generation", "textHtml": "<p>Investment in new renewable generation</p>", "correct": true},
+        {"id": "q7_b", "text": "Closure of baseload thermal generation", "textHtml": "<p>Closure of baseload thermal generation</p>", "correct": true},
+        {"id": "q7_c", "text": "Battery storage for peak demand", "textHtml": "<p>Battery storage for peak demand</p>", "correct": true},
+        {"id": "q7_d", "text": "Building new coal-fired power stations", "textHtml": "<p>Building new coal-fired power stations</p>", "correct": false}
+      ],
+      "feedback": "Contact's net zero strategies include investing in renewable generation, closing thermal plants, and implementing battery storage. Building coal plants would increase emissions, not reduce them.",
+      "feedbackHtml": "<p>Contact's net zero strategies include investing in renewable generation, closing thermal plants, and implementing battery storage. Building coal plants would increase emissions, not reduce them.</p>"
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What type of battery technology is Contact installing at Glenbrook?",
+      "questionHtml": "<p>What type of battery technology is Contact installing at Glenbrook?</p>",
+      "answers": [
+        {"id": "q8_a", "text": "Tesla Megapack", "textHtml": "<p>Tesla Megapack</p>", "correct": true},
+        {"id": "q8_b", "text": "Tesla Powerwall", "textHtml": "<p>Tesla Powerwall</p>", "correct": false},
+        {"id": "q8_c", "text": "Pumped hydro storage", "textHtml": "<p>Pumped hydro storage</p>", "correct": false},
+        {"id": "q8_d", "text": "Hydrogen fuel cells", "textHtml": "<p>Hydrogen fuel cells</p>", "correct": false}
+      ],
+      "feedback": "Contact is installing a Tesla Megapack battery system at Glenbrook, Auckland, to store excess renewable energy generated during off-peak times.",
+      "feedbackHtml": "<p>Contact is installing a Tesla Megapack battery system at Glenbrook, Auckland, to store excess renewable energy generated during off-peak times.</p>"
+    },
+    {
+      "id": "q9",
+      "questionNumber": 9,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is Contact's Science-Based Target for Scope 1 and 2 emissions reduction by 2026?",
+      "questionHtml": "<p>What is Contact's Science-Based Target for Scope 1 and 2 emissions reduction by 2026?</p>",
+      "answers": [
+        {"id": "q9_a", "text": "45% reduction", "textHtml": "<p>45% reduction</p>", "correct": true},
+        {"id": "q9_b", "text": "30% reduction", "textHtml": "<p>30% reduction</p>", "correct": false},
+        {"id": "q9_c", "text": "50% reduction", "textHtml": "<p>50% reduction</p>", "correct": false},
+        {"id": "q9_d", "text": "80% reduction", "textHtml": "<p>80% reduction</p>", "correct": false}
+      ],
+      "feedback": "Contact's verified Science-Based Target is to reduce Scope 1 and 2 greenhouse gas emissions by 45% by 2026.",
+      "feedbackHtml": "<p>Contact's verified Science-Based Target is to reduce Scope 1 and 2 greenhouse gas emissions by 45% by 2026.</p>"
+    },
+    {
+      "id": "q10",
+      "questionNumber": 10,
+      "type": "MULTIPLE_CHOICE",
+      "question": "How many major restoration sites does Contact manage for biodiversity?",
+      "questionHtml": "<p>How many major restoration sites does Contact manage for biodiversity?</p>",
+      "answers": [
+        {"id": "q10_a", "text": "26 sites", "textHtml": "<p>26 sites</p>", "correct": true},
+        {"id": "q10_b", "text": "10 sites", "textHtml": "<p>10 sites</p>", "correct": false},
+        {"id": "q10_c", "text": "50 sites", "textHtml": "<p>50 sites</p>", "correct": false},
+        {"id": "q10_d", "text": "5 sites", "textHtml": "<p>5 sites</p>", "correct": false}
+      ],
+      "feedback": "Contact manages 26 major restoration sites totaling approximately 1,000+ hectares across New Zealand for biodiversity protection.",
+      "feedbackHtml": "<p>Contact manages 26 major restoration sites totaling approximately 1,000+ hectares across New Zealand for biodiversity protection.</p>"
+    }
+  ]
+}

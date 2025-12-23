@@ -1,0 +1,158 @@
+{
+  "id": "contact-energy-sustainability",
+  "title": "Contact Energy Sustainability",
+  "description": "<p>This course provides Contact Energy staff with a comprehensive understanding of our sustainability strategy, environmental commitments, and net zero journey. Learn about our renewable energy initiatives, biodiversity programs, water stewardship, community partnerships, and ESG governance framework.</p>",
+  "color": "#00a651",
+  "coverImage": "cover.jpg",
+  "modules": [
+    {
+      "id": "01_Introduction_to_Sustainability",
+      "title": "Module 1: Introduction to Contact Energy's Sustainability Journey",
+      "index": 1,
+      "lessons": [
+        {
+          "id": "01_Introduction_to_Sustainability|||01_Our_Sustainability_Vision",
+          "moduleId": "01_Introduction_to_Sustainability",
+          "title": "Our Sustainability Vision and Purpose",
+          "type": "content",
+          "index": 1,
+          "markdownPath": "/courses/contact-energy-sustainability/01_Introduction_to_Sustainability/01_Our_Sustainability_Vision.md"
+        },
+        {
+          "id": "01_Introduction_to_Sustainability|||02_Understanding_ESG",
+          "moduleId": "01_Introduction_to_Sustainability",
+          "title": "Understanding ESG at Contact Energy",
+          "type": "content",
+          "index": 2,
+          "markdownPath": "/courses/contact-energy-sustainability/01_Introduction_to_Sustainability/02_Understanding_ESG.md"
+        },
+        {
+          "id": "01_Introduction_to_Sustainability|||03_Tikanga_and_Te_Ao_Maori",
+          "moduleId": "01_Introduction_to_Sustainability",
+          "title": "Tikanga and Te Ao Māori in Our Approach",
+          "type": "content",
+          "index": 3,
+          "markdownPath": "/courses/contact-energy-sustainability/01_Introduction_to_Sustainability/03_Tikanga_and_Te_Ao_Maori.md"
+        },
+        {
+          "id": "01_Introduction_to_Sustainability|||04_Our_Sustainability_Achievements",
+          "moduleId": "01_Introduction_to_Sustainability",
+          "title": "Key Sustainability Achievements",
+          "type": "content",
+          "index": 4,
+          "markdownPath": "/courses/contact-energy-sustainability/01_Introduction_to_Sustainability/04_Our_Sustainability_Achievements.md"
+        },
+        {
+          "id": "01_Introduction_to_Sustainability|||05_Quiz",
+          "moduleId": "01_Introduction_to_Sustainability",
+          "title": "Module 1 Quiz",
+          "type": "quiz",
+          "index": 5,
+          "quizPath": "/courses/contact-energy-sustainability/01_Introduction_to_Sustainability/05_Quiz.json"
+        }
+      ]
+    },
+    {
+      "id": "02_Environmental_Stewardship_Net_Zero",
+      "title": "Module 2: Environmental Stewardship and Net Zero",
+      "index": 2,
+      "lessons": [
+        {
+          "id": "02_Environmental_Stewardship_Net_Zero|||01_Net_Zero_Journey",
+          "moduleId": "02_Environmental_Stewardship_Net_Zero",
+          "title": "Our Net Zero 2035 Journey",
+          "type": "content",
+          "index": 1,
+          "markdownPath": "/courses/contact-energy-sustainability/02_Environmental_Stewardship_Net_Zero/01_Net_Zero_Journey.md"
+        },
+        {
+          "id": "02_Environmental_Stewardship_Net_Zero|||02_Renewable_Energy_Projects",
+          "moduleId": "02_Environmental_Stewardship_Net_Zero",
+          "title": "Renewable Energy Projects",
+          "type": "content",
+          "index": 2,
+          "markdownPath": "/courses/contact-energy-sustainability/02_Environmental_Stewardship_Net_Zero/02_Renewable_Energy_Projects.md"
+        },
+        {
+          "id": "02_Environmental_Stewardship_Net_Zero|||03_Biodiversity_and_Ecosystems",
+          "moduleId": "02_Environmental_Stewardship_Net_Zero",
+          "title": "Biodiversity and Ecosystem Protection",
+          "type": "content",
+          "index": 3,
+          "markdownPath": "/courses/contact-energy-sustainability/02_Environmental_Stewardship_Net_Zero/03_Biodiversity_and_Ecosystems.md"
+        },
+        {
+          "id": "02_Environmental_Stewardship_Net_Zero|||04_Water_Stewardship",
+          "moduleId": "02_Environmental_Stewardship_Net_Zero",
+          "title": "Water Stewardship",
+          "type": "content",
+          "index": 4,
+          "markdownPath": "/courses/contact-energy-sustainability/02_Environmental_Stewardship_Net_Zero/04_Water_Stewardship.md"
+        },
+        {
+          "id": "02_Environmental_Stewardship_Net_Zero|||05_Emissions_and_Science_Based_Targets",
+          "moduleId": "02_Environmental_Stewardship_Net_Zero",
+          "title": "Emissions and Science-Based Targets",
+          "type": "content",
+          "index": 5,
+          "markdownPath": "/courses/contact-energy-sustainability/02_Environmental_Stewardship_Net_Zero/05_Emissions_and_Science_Based_Targets.md"
+        },
+        {
+          "id": "02_Environmental_Stewardship_Net_Zero|||06_Quiz",
+          "moduleId": "02_Environmental_Stewardship_Net_Zero",
+          "title": "Module 2 Quiz",
+          "type": "quiz",
+          "index": 6,
+          "quizPath": "/courses/contact-energy-sustainability/02_Environmental_Stewardship_Net_Zero/06_Quiz.json"
+        }
+      ]
+    },
+    {
+      "id": "03_Community_Governance_Responsible_Business",
+      "title": "Module 3: Community, Governance, and Responsible Business",
+      "index": 3,
+      "lessons": [
+        {
+          "id": "03_Community_Governance_Responsible_Business|||01_Community_Partnerships",
+          "moduleId": "03_Community_Governance_Responsible_Business",
+          "title": "Community Partnerships and Engagement",
+          "type": "content",
+          "index": 1,
+          "markdownPath": "/courses/contact-energy-sustainability/03_Community_Governance_Responsible_Business/01_Community_Partnerships.md"
+        },
+        {
+          "id": "03_Community_Governance_Responsible_Business|||02_Responsible_Procurement",
+          "moduleId": "03_Community_Governance_Responsible_Business",
+          "title": "Responsible Procurement and Supply Chain",
+          "type": "content",
+          "index": 2,
+          "markdownPath": "/courses/contact-energy-sustainability/03_Community_Governance_Responsible_Business/02_Responsible_Procurement.md"
+        },
+        {
+          "id": "03_Community_Governance_Responsible_Business|||03_Sustainable_Finance",
+          "moduleId": "03_Community_Governance_Responsible_Business",
+          "title": "Sustainable Finance Leadership",
+          "type": "content",
+          "index": 3,
+          "markdownPath": "/courses/contact-energy-sustainability/03_Community_Governance_Responsible_Business/03_Sustainable_Finance.md"
+        },
+        {
+          "id": "03_Community_Governance_Responsible_Business|||04_Your_Role_in_Sustainability",
+          "moduleId": "03_Community_Governance_Responsible_Business",
+          "title": "Your Role in Sustainability",
+          "type": "content",
+          "index": 4,
+          "markdownPath": "/courses/contact-energy-sustainability/03_Community_Governance_Responsible_Business/04_Your_Role_in_Sustainability.md"
+        },
+        {
+          "id": "03_Community_Governance_Responsible_Business|||05_Quiz",
+          "moduleId": "03_Community_Governance_Responsible_Business",
+          "title": "Module 3 Quiz",
+          "type": "quiz",
+          "index": 5,
+          "quizPath": "/courses/contact-energy-sustainability/03_Community_Governance_Responsible_Business/05_Quiz.json"
+        }
+      ]
+    }
+  ]
+}

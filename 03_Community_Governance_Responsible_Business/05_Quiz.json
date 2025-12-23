@@ -1,0 +1,157 @@
+{
+  "title": "Module 3 Quiz: Community, Governance, and Responsible Business",
+  "type": "quiz",
+  "passingScore": 80,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Approximately how many sites does Contact Energy operate across New Zealand with community engagement plans?",
+      "questionHtml": "<p>Approximately how many sites does Contact Energy operate across New Zealand with community engagement plans?</p>",
+      "answers": [
+        {"id": "q1_a", "text": "45 sites", "textHtml": "<p>45 sites</p>", "correct": true},
+        {"id": "q1_b", "text": "20 sites", "textHtml": "<p>20 sites</p>", "correct": false},
+        {"id": "q1_c", "text": "100 sites", "textHtml": "<p>100 sites</p>", "correct": false},
+        {"id": "q1_d", "text": "10 sites", "textHtml": "<p>10 sites</p>", "correct": false}
+      ],
+      "feedback": "Contact operates across approximately 45 sites throughout New Zealand, with community engagement plans in place at each location.",
+      "feedbackHtml": "<p>Contact operates across approximately 45 sites throughout New Zealand, with community engagement plans in place at each location.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "In what year did Contact establish New Zealand's first Green Borrowing Programme?",
+      "questionHtml": "<p>In what year did Contact establish New Zealand's first Green Borrowing Programme?</p>",
+      "answers": [
+        {"id": "q2_a", "text": "2017", "textHtml": "<p>2017</p>", "correct": true},
+        {"id": "q2_b", "text": "2019", "textHtml": "<p>2019</p>", "correct": false},
+        {"id": "q2_c", "text": "2020", "textHtml": "<p>2020</p>", "correct": false},
+        {"id": "q2_d", "text": "2015", "textHtml": "<p>2015</p>", "correct": false}
+      ],
+      "feedback": "In 2017, Contact was the first company in New Zealand to establish a Green Borrowing Programme, pioneering sustainable finance in the country.",
+      "feedbackHtml": "<p>In 2017, Contact was the first company in New Zealand to establish a Green Borrowing Programme, pioneering sustainable finance in the country.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What threatened species does Contact support releasing on Tūwharetoa iwi land in Taupō?",
+      "questionHtml": "<p>What threatened species does Contact support releasing on Tūwharetoa iwi land in Taupō?</p>",
+      "answers": [
+        {"id": "q3_a", "text": "Karearea (NZ Falcon)", "textHtml": "<p>Karearea (NZ Falcon)</p>", "correct": true},
+        {"id": "q3_b", "text": "Kiwi", "textHtml": "<p>Kiwi</p>", "correct": false},
+        {"id": "q3_c", "text": "Kākāpō", "textHtml": "<p>Kākāpō</p>", "correct": false},
+        {"id": "q3_d", "text": "Tūī", "textHtml": "<p>Tūī</p>", "correct": false}
+      ],
+      "feedback": "Contact supports the release of karearea (New Zealand Falcon) on Tūwharetoa iwi land in Taupō, with a target of releasing 15 birds.",
+      "feedbackHtml": "<p>Contact supports the release of karearea (New Zealand Falcon) on Tūwharetoa iwi land in Taupō, with a target of releasing 15 birds.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What was Contact's achievement on the Nasdaq Sustainable Bond Network in 2020?",
+      "questionHtml": "<p>What was Contact's achievement on the Nasdaq Sustainable Bond Network in 2020?</p>",
+      "answers": [
+        {"id": "q4_a", "text": "First Asia-Pacific company to list bonds", "textHtml": "<p>First Asia-Pacific company to list bonds</p>", "correct": true},
+        {"id": "q4_b", "text": "First New Zealand company to list bonds", "textHtml": "<p>First New Zealand company to list bonds</p>", "correct": false},
+        {"id": "q4_c", "text": "Largest bond issuance in 2020", "textHtml": "<p>Largest bond issuance in 2020</p>", "correct": false},
+        {"id": "q4_d", "text": "First energy company globally to list bonds", "textHtml": "<p>First energy company globally to list bonds</p>", "correct": false}
+      ],
+      "feedback": "In 2020, Contact became the first company in the entire Asia-Pacific region to list bonds on Nasdaq's Sustainable Bond Network.",
+      "feedbackHtml": "<p>In 2020, Contact became the first company in the entire Asia-Pacific region to list bonds on Nasdaq's Sustainable Bond Network.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Who oversees Contact's Supply Chain ESG Programme?",
+      "questionHtml": "<p>Who oversees Contact's Supply Chain ESG Programme?</p>",
+      "answers": [
+        {"id": "q5_a", "text": "Leadership Team, managed by Senior Procurement and Contracting", "textHtml": "<p>Leadership Team, managed by Senior Procurement and Contracting</p>", "correct": true},
+        {"id": "q5_b", "text": "External consultants only", "textHtml": "<p>External consultants only</p>", "correct": false},
+        {"id": "q5_c", "text": "Individual department managers", "textHtml": "<p>Individual department managers</p>", "correct": false},
+        {"id": "q5_d", "text": "Government regulators", "textHtml": "<p>Government regulators</p>", "correct": false}
+      ],
+      "feedback": "The Supply Chain ESG Programme is managed by the Senior Procurement and Contracting team, with oversight from the Leadership Team.",
+      "feedbackHtml": "<p>The Supply Chain ESG Programme is managed by the Senior Procurement and Contracting team, with oversight from the Leadership Team.</p>"
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which of the following are included in Contact's responsible procurement screening? (Select all that apply)",
+      "questionHtml": "<p>Which of the following are included in Contact's responsible procurement screening? (Select all that apply)</p>",
+      "answers": [
+        {"id": "q6_a", "text": "Modern slavery risk assessment", "textHtml": "<p>Modern slavery risk assessment</p>", "correct": true},
+        {"id": "q6_b", "text": "Environmental management systems", "textHtml": "<p>Environmental management systems</p>", "correct": true},
+        {"id": "q6_c", "text": "Business ethics and anti-corruption", "textHtml": "<p>Business ethics and anti-corruption</p>", "correct": true},
+        {"id": "q6_d", "text": "Political party donations", "textHtml": "<p>Political party donations</p>", "correct": false}
+      ],
+      "feedback": "Contact's responsible procurement screening includes modern slavery risk, environmental management, and business ethics. Political party donations are not part of the ESG screening criteria.",
+      "feedbackHtml": "<p>Contact's responsible procurement screening includes modern slavery risk, environmental management, and business ethics. Political party donations are not part of the ESG screening criteria.</p>"
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "type": "MULTIPLE_CHOICE",
+      "question": "How does a sustainability-linked loan work?",
+      "questionHtml": "<p>How does a sustainability-linked loan work?</p>",
+      "answers": [
+        {"id": "q7_a", "text": "Interest rates adjust based on ESG performance", "textHtml": "<p>Interest rates adjust based on ESG performance</p>", "correct": true},
+        {"id": "q7_b", "text": "The loan can only be used for solar panels", "textHtml": "<p>The loan can only be used for solar panels</p>", "correct": false},
+        {"id": "q7_c", "text": "The loan never needs to be repaid", "textHtml": "<p>The loan never needs to be repaid</p>", "correct": false},
+        {"id": "q7_d", "text": "Government provides guarantee for all amounts", "textHtml": "<p>Government provides guarantee for all amounts</p>", "correct": false}
+      ],
+      "feedback": "A sustainability-linked loan has interest rates that adjust based on ESG performance—better sustainability performance leads to lower borrowing costs.",
+      "feedbackHtml": "<p>A sustainability-linked loan has interest rates that adjust based on ESG performance—better sustainability performance leads to lower borrowing costs.</p>"
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "type": "MULTIPLE_CHOICE",
+      "question": "Which conservation group has Contact partnered with since 2013, supporting over 200,000 native trees planted?",
+      "questionHtml": "<p>Which conservation group has Contact partnered with since 2013, supporting over 200,000 native trees planted?</p>",
+      "answers": [
+        {"id": "q8_a", "text": "Greening Taupō", "textHtml": "<p>Greening Taupō</p>", "correct": true},
+        {"id": "q8_b", "text": "Forest & Bird", "textHtml": "<p>Forest & Bird</p>", "correct": false},
+        {"id": "q8_c", "text": "Trees for Survival", "textHtml": "<p>Trees for Survival</p>", "correct": false},
+        {"id": "q8_d", "text": "DOC", "textHtml": "<p>DOC</p>", "correct": false}
+      ],
+      "feedback": "Contact's partnership with Greening Taupō began in 2013 when we provided 3,000 seedlings. The group has now planted over 200,000 native trees with community support.",
+      "feedbackHtml": "<p>Contact's partnership with Greening Taupō began in 2013 when we provided 3,000 seedlings. The group has now planted over 200,000 native trees with community support.</p>"
+    },
+    {
+      "id": "q9",
+      "questionNumber": 9,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does Contact's Tikanga guide us to do?",
+      "questionHtml": "<p>What does Contact's Tikanga guide us to do?</p>",
+      "answers": [
+        {"id": "q9_a", "text": "Make decisions our children would be proud of", "textHtml": "<p>Make decisions our children would be proud of</p>", "correct": true},
+        {"id": "q9_b", "text": "Focus only on short-term profits", "textHtml": "<p>Focus only on short-term profits</p>", "correct": false},
+        {"id": "q9_c", "text": "Ignore environmental concerns", "textHtml": "<p>Ignore environmental concerns</p>", "correct": false},
+        {"id": "q9_d", "text": "Avoid community engagement", "textHtml": "<p>Avoid community engagement</p>", "correct": false}
+      ],
+      "feedback": "Our Tikanga guides us to make decisions our children would be proud of—thinking long-term and ensuring we look after New Zealand's future.",
+      "feedbackHtml": "<p>Our Tikanga guides us to make decisions our children would be proud of—thinking long-term and ensuring we look after New Zealand's future.</p>"
+    },
+    {
+      "id": "q10",
+      "questionNumber": 10,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "How can every Contact employee contribute to sustainability? (Select all that apply)",
+      "questionHtml": "<p>How can every Contact employee contribute to sustainability? (Select all that apply)</p>",
+      "answers": [
+        {"id": "q10_a", "text": "Apply sustainability thinking to daily decisions", "textHtml": "<p>Apply sustainability thinking to daily decisions</p>", "correct": true},
+        {"id": "q10_b", "text": "Share Contact's sustainability story with stakeholders", "textHtml": "<p>Share Contact's sustainability story with stakeholders</p>", "correct": true},
+        {"id": "q10_c", "text": "Suggest improvements to processes", "textHtml": "<p>Suggest improvements to processes</p>", "correct": true},
+        {"id": "q10_d", "text": "Wait for others to take action first", "textHtml": "<p>Wait for others to take action first</p>", "correct": false}
+      ],
+      "feedback": "Every employee can contribute through daily decisions, sharing our story, and suggesting improvements. Waiting for others to act first is not an effective sustainability approach.",
+      "feedbackHtml": "<p>Every employee can contribute through daily decisions, sharing our story, and suggesting improvements. Waiting for others to act first is not an effective sustainability approach.</p>"
+    }
+  ]
+}

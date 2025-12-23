@@ -1,0 +1,157 @@
+{
+  "title": "Module 1 Quiz: Introduction to Sustainability",
+  "type": "quiz",
+  "passingScore": 80,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is Contact Energy's net zero emissions target for generation operations?",
+      "questionHtml": "<p>What is Contact Energy's net zero emissions target for generation operations?</p>",
+      "answers": [
+        {"id": "q1_a", "text": "Net zero by 2035", "textHtml": "<p>Net zero by 2035</p>", "correct": true},
+        {"id": "q1_b", "text": "Net zero by 2030", "textHtml": "<p>Net zero by 2030</p>", "correct": false},
+        {"id": "q1_c", "text": "Net zero by 2050", "textHtml": "<p>Net zero by 2050</p>", "correct": false},
+        {"id": "q1_d", "text": "Net zero by 2040", "textHtml": "<p>Net zero by 2040</p>", "correct": false}
+      ],
+      "feedback": "Contact Energy has committed to achieving net zero emissions from generation operations by 2035, placing us at the forefront of New Zealand's energy transition.",
+      "feedbackHtml": "<p>Contact Energy has committed to achieving net zero emissions from generation operations by 2035, placing us at the forefront of New Zealand's energy transition.</p>"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does ESG stand for?",
+      "questionHtml": "<p>What does ESG stand for?</p>",
+      "answers": [
+        {"id": "q2_a", "text": "Environmental, Social, and Governance", "textHtml": "<p>Environmental, Social, and Governance</p>", "correct": true},
+        {"id": "q2_b", "text": "Energy, Sustainability, and Growth", "textHtml": "<p>Energy, Sustainability, and Growth</p>", "correct": false},
+        {"id": "q2_c", "text": "Emissions, Standards, and Guidelines", "textHtml": "<p>Emissions, Standards, and Guidelines</p>", "correct": false},
+        {"id": "q2_d", "text": "Environmental, Safety, and Governance", "textHtml": "<p>Environmental, Safety, and Governance</p>", "correct": false}
+      ],
+      "feedback": "ESG stands for Environmental, Social, and Governance—three central pillars used to evaluate a company's sustainability and ethical impact.",
+      "feedbackHtml": "<p>ESG stands for Environmental, Social, and Governance—three central pillars used to evaluate a company's sustainability and ethical impact.</p>"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What percentage of Contact Energy's generation was renewable in FY23?",
+      "questionHtml": "<p>What percentage of Contact Energy's generation was renewable in FY23?</p>",
+      "answers": [
+        {"id": "q3_a", "text": "More than 90%", "textHtml": "<p>More than 90%</p>", "correct": true},
+        {"id": "q3_b", "text": "About 75%", "textHtml": "<p>About 75%</p>", "correct": false},
+        {"id": "q3_c", "text": "About 60%", "textHtml": "<p>About 60%</p>", "correct": false},
+        {"id": "q3_d", "text": "100%", "textHtml": "<p>100%</p>", "correct": false}
+      ],
+      "feedback": "Contact Energy's generation was more than 90% renewable in FY23, demonstrating our leadership in clean energy.",
+      "feedbackHtml": "<p>Contact Energy's generation was more than 90% renewable in FY23, demonstrating our leadership in clean energy.</p>"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What does 'kaitiakitanga' mean in the context of sustainability?",
+      "questionHtml": "<p>What does 'kaitiakitanga' mean in the context of sustainability?</p>",
+      "answers": [
+        {"id": "q4_a", "text": "Guardianship and protection of the environment", "textHtml": "<p>Guardianship and protection of the environment</p>", "correct": true},
+        {"id": "q4_b", "text": "Economic development", "textHtml": "<p>Economic development</p>", "correct": false},
+        {"id": "q4_c", "text": "Energy generation", "textHtml": "<p>Energy generation</p>", "correct": false},
+        {"id": "q4_d", "text": "Corporate governance", "textHtml": "<p>Corporate governance</p>", "correct": false}
+      ],
+      "feedback": "Kaitiakitanga is the concept of guardianship and protection. It describes the relationship between tangata whenua and the natural world—a relationship of reciprocal care and responsibility.",
+      "feedbackHtml": "<p>Kaitiakitanga is the concept of guardianship and protection. It describes the relationship between tangata whenua and the natural world—a relationship of reciprocal care and responsibility.</p>"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What international standard is Contact's Environmental Management System certified against?",
+      "questionHtml": "<p>What international standard is Contact's Environmental Management System certified against?</p>",
+      "answers": [
+        {"id": "q5_a", "text": "ISO 14001", "textHtml": "<p>ISO 14001</p>", "correct": true},
+        {"id": "q5_b", "text": "ISO 9001", "textHtml": "<p>ISO 9001</p>", "correct": false},
+        {"id": "q5_c", "text": "ISO 27001", "textHtml": "<p>ISO 27001</p>", "correct": false},
+        {"id": "q5_d", "text": "ISO 45001", "textHtml": "<p>ISO 45001</p>", "correct": false}
+      ],
+      "feedback": "Contact's Environmental Management System is certified against ISO 14001, an internationally recognised standard for effective environmental management systems.",
+      "feedbackHtml": "<p>Contact's Environmental Management System is certified against ISO 14001, an internationally recognised standard for effective environmental management systems.</p>"
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "type": "MULTIPLE_CHOICE",
+      "question": "In what year did Contact establish New Zealand's first Green Borrowing Programme?",
+      "questionHtml": "<p>In what year did Contact establish New Zealand's first Green Borrowing Programme?</p>",
+      "answers": [
+        {"id": "q6_a", "text": "2017", "textHtml": "<p>2017</p>", "correct": true},
+        {"id": "q6_b", "text": "2019", "textHtml": "<p>2019</p>", "correct": false},
+        {"id": "q6_c", "text": "2020", "textHtml": "<p>2020</p>", "correct": false},
+        {"id": "q6_d", "text": "2015", "textHtml": "<p>2015</p>", "correct": false}
+      ],
+      "feedback": "In 2017, Contact was the first company in New Zealand to establish a Green Borrowing Programme, pioneering sustainable finance in the country.",
+      "feedbackHtml": "<p>In 2017, Contact was the first company in New Zealand to establish a Green Borrowing Programme, pioneering sustainable finance in the country.</p>"
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "type": "MULTIPLE_CHOICE",
+      "question": "By how much have Contact's scope one and two emissions reduced since 2012?",
+      "questionHtml": "<p>By how much have Contact's scope one and two emissions reduced since 2012?</p>",
+      "answers": [
+        {"id": "q7_a", "text": "Almost 80%", "textHtml": "<p>Almost 80%</p>", "correct": true},
+        {"id": "q7_b", "text": "About 50%", "textHtml": "<p>About 50%</p>", "correct": false},
+        {"id": "q7_c", "text": "About 30%", "textHtml": "<p>About 30%</p>", "correct": false},
+        {"id": "q7_d", "text": "About 65%", "textHtml": "<p>About 65%</p>", "correct": false}
+      ],
+      "feedback": "Since 2012, Contact's scope one and two emissions have reduced by almost 80%—a remarkable achievement demonstrating our commitment to decarbonisation.",
+      "feedbackHtml": "<p>Since 2012, Contact's scope one and two emissions have reduced by almost 80%—a remarkable achievement demonstrating our commitment to decarbonisation.</p>"
+    },
+    {
+      "id": "q8",
+      "questionNumber": 8,
+      "type": "MULTIPLE_RESPONSE",
+      "question": "Which of the following are components of Te Ao Māori that Contact Energy embraces? (Select all that apply)",
+      "questionHtml": "<p>Which of the following are components of Te Ao Māori that Contact Energy embraces? (Select all that apply)</p>",
+      "answers": [
+        {"id": "q8_a", "text": "Recognising water as a precious taonga", "textHtml": "<p>Recognising water as a precious taonga</p>", "correct": true},
+        {"id": "q8_b", "text": "Acknowledging the kaitiaki relationship between tangata whenua and resources", "textHtml": "<p>Acknowledging the kaitiaki relationship between tangata whenua and resources</p>", "correct": true},
+        {"id": "q8_c", "text": "Making decisions future generations would be proud of", "textHtml": "<p>Making decisions future generations would be proud of</p>", "correct": true},
+        {"id": "q8_d", "text": "Prioritising short-term profits over environmental protection", "textHtml": "<p>Prioritising short-term profits over environmental protection</p>", "correct": false}
+      ],
+      "feedback": "Te Ao Māori at Contact includes recognising water as a taonga, acknowledging kaitiaki relationships, and making intergenerational decisions. Short-term profit prioritisation contradicts these principles.",
+      "feedbackHtml": "<p>Te Ao Māori at Contact includes recognising water as a taonga, acknowledging kaitiaki relationships, and making intergenerational decisions. Short-term profit prioritisation contradicts these principles.</p>"
+    },
+    {
+      "id": "q9",
+      "questionNumber": 9,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What recognition did Contact Energy receive in the Dow Jones Sustainability Index?",
+      "questionHtml": "<p>What recognition did Contact Energy receive in the Dow Jones Sustainability Index?</p>",
+      "answers": [
+        {"id": "q9_a", "text": "Top-rated New Zealand company in DJSI Asia-Pacific", "textHtml": "<p>Top-rated New Zealand company in DJSI Asia-Pacific</p>", "correct": true},
+        {"id": "q9_b", "text": "Included in the DJSI for the first time", "textHtml": "<p>Included in the DJSI for the first time</p>", "correct": false},
+        {"id": "q9_c", "text": "Top-rated energy company globally", "textHtml": "<p>Top-rated energy company globally</p>", "correct": false},
+        {"id": "q9_d", "text": "Third place in Asia-Pacific utilities", "textHtml": "<p>Third place in Asia-Pacific utilities</p>", "correct": false}
+      ],
+      "feedback": "Contact was ranked as the top-rated New Zealand company in the Dow Jones Sustainability Index (DJSI) Asia-Pacific, demonstrating world-class ESG practices.",
+      "feedbackHtml": "<p>Contact was ranked as the top-rated New Zealand company in the Dow Jones Sustainability Index (DJSI) Asia-Pacific, demonstrating world-class ESG practices.</p>"
+    },
+    {
+      "id": "q10",
+      "questionNumber": 10,
+      "type": "MULTIPLE_CHOICE",
+      "question": "What is Contact Energy's stated purpose?",
+      "questionHtml": "<p>What is Contact Energy's stated purpose?</p>",
+      "answers": [
+        {"id": "q10_a", "text": "To create a better Aotearoa New Zealand", "textHtml": "<p>To create a better Aotearoa New Zealand</p>", "correct": true},
+        {"id": "q10_b", "text": "To be the largest energy company in New Zealand", "textHtml": "<p>To be the largest energy company in New Zealand</p>", "correct": false},
+        {"id": "q10_c", "text": "To provide the cheapest electricity in the market", "textHtml": "<p>To provide the cheapest electricity in the market</p>", "correct": false},
+        {"id": "q10_d", "text": "To maximise shareholder returns", "textHtml": "<p>To maximise shareholder returns</p>", "correct": false}
+      ],
+      "feedback": "Contact Energy's purpose is to create a better Aotearoa New Zealand—a purpose that guides all our sustainability initiatives and business decisions.",
+      "feedbackHtml": "<p>Contact Energy's purpose is to create a better Aotearoa New Zealand—a purpose that guides all our sustainability initiatives and business decisions.</p>"
+    }
+  ]
+}
