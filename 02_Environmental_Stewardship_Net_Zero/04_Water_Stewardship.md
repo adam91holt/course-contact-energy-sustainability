@@ -1,5 +1,8 @@
 # Water Stewardship
 
+
+![Water Stewardship](/courses/contact-energy-sustainability/assets/lesson-images/m2_04_water_stewardship.jpg)
+
 Water is a precious taonga—a treasure for all New Zealanders to enjoy and protect. Contact Energy's operations depend on water resources, from hydroelectric generation to geothermal cooling. This lesson explores our comprehensive approach to water stewardship and our commitment to protecting New Zealand's freshwater ecosystems.
 
 ## Learning Objectives
@@ -14,8 +17,6 @@ By the end of this lesson, you will be able to:
 
 In Te Ao Māori, water (wai) is considered a precious taonga—something to be treasured and protected. Contact Energy shares this view.
 
-![New Zealand river ecosystem](https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800)
-*Image source: [Unsplash](https://unsplash.com) - New Zealand's rivers are precious taonga requiring careful stewardship*
 
 ### Our Water Commitment
 

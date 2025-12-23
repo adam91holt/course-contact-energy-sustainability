@@ -1,5 +1,8 @@
 # Your Role in Sustainability
 
+
+![Your Role in Sustainability](/courses/contact-energy-sustainability/assets/lesson-images/m3_04_your_role.jpg)
+
 Sustainability at Contact Energy isn't just about corporate strategies and renewable energy projects—it's about the daily decisions and actions of every team member. This final lesson explores how you can contribute to our sustainability goals, regardless of your role.
 
 ## Learning Objectives
@@ -14,8 +17,6 @@ By the end of this lesson, you will be able to:
 
 Contact Energy's sustainability achievements are the result of collective effort. From major renewable energy projects to everyday decisions in the office, every action counts.
 
-![Teamwork and sustainability](https://images.unsplash.com/photo-1552664730-d307ca884978?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Every team member contributes to our sustainability success*
 
 ### The Power of Collective Action
 

@@ -1,5 +1,8 @@
 # Renewable Energy Projects
 
+
+![Renewable Energy Projects](/courses/contact-energy-sustainability/assets/lesson-images/m2_02_renewable_energy.jpg)
+
 Contact Energy is investing in a diverse portfolio of renewable energy projects to power New Zealand's clean energy future. From world-class geothermal stations to cutting-edge solar farms and battery storage, these projects are the foundation of our net zero strategy. This lesson explores our major renewable energy initiatives.
 
 ## Learning Objectives
@@ -14,8 +17,6 @@ By the end of this lesson, you will be able to:
 
 Contact generates electricity from multiple renewable sources, each with unique characteristics:
 
-![Renewable energy mix](https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Diverse renewable sources power Contact's generation fleet*
 
 | Source | Characteristics |
 |--------|-----------------|
@@ -69,8 +70,6 @@ Together, Tauhara and Te Huka 3 add **1.9 TWh per annum** at full capacity—a m
 
 Contact is building one of New Zealand's largest solar farms near Christchurch Airport.
 
-![Solar farm](https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Large-scale solar farms are transforming electricity generation*
 
 ### Project Overview
 

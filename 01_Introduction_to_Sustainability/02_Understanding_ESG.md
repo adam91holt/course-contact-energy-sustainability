@@ -1,5 +1,8 @@
 # Understanding ESG at Contact Energy
 
+
+![Understanding ESG](/courses/contact-energy-sustainability/assets/lesson-images/m1_02_understanding_esg.jpg)
+
 Environmental, Social, and Governance (ESG) has become a critical framework for measuring how organisations manage risks and opportunities related to sustainability. At Contact Energy, ESG isn't just about reporting—it's about embedding responsible practices into every aspect of our business. This lesson explores what ESG means for us and how we apply these principles in practice.
 
 ## Learning Objectives
@@ -14,8 +17,6 @@ By the end of this lesson, you will be able to:
 
 ESG stands for **Environmental, Social, and Governance**—three central pillars that investors, customers, and stakeholders use to evaluate a company's sustainability and ethical impact.
 
-![ESG framework concept](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800)
-*Image source: [Unsplash](https://unsplash.com) - ESG frameworks guide sustainable business decision-making*
 
 ### Environmental
 This pillar covers how a company interacts with the natural environment, including:
@@ -71,8 +72,6 @@ Our investor centre provides detailed ESG data covering emissions, biodiversity,
 
 Contact's Environmental Management System is certified against **ISO 14001**, an internationally recognised standard that specifies requirements for an effective environmental management system.
 
-![Environmental management certification](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Systematic environmental management ensures consistent practices*
 
 ### What ISO 14001 Means for Us
 

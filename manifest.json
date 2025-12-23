@@ -2,8 +2,8 @@
   "id": "contact-energy-sustainability",
   "title": "Contact Energy Sustainability",
   "description": "<p>This course provides Contact Energy staff with a comprehensive understanding of our sustainability strategy, environmental commitments, and net zero journey. Learn about our renewable energy initiatives, biodiversity programs, water stewardship, community partnerships, and ESG governance framework.</p>",
-  "color": "#00a651",
-  "coverImage": "cover.jpg",
+  "color": "#8f6d14",
+  "coverImage": "assets/cover.jpg",
   "modules": [
     {
       "id": "01_Introduction_to_Sustainability",

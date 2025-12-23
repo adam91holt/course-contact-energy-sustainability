@@ -1,5 +1,8 @@
 # Key Sustainability Achievements
 
+
+![Sustainability Achievements](/courses/contact-energy-sustainability/assets/lesson-images/m1_04_achievements.jpg)
+
 Contact Energy has made remarkable progress on our sustainability journey. This lesson highlights our key achievements, demonstrating that our commitment to sustainability delivers real results. These achievements reflect the collective effort of our entire team and position us as a leader in New Zealand's clean energy transition.
 
 ## Learning Objectives
@@ -14,8 +17,6 @@ By the end of this lesson, you will be able to:
 
 Our most significant achievement is the dramatic reduction in our carbon footprint over the past decade.
 
-![Clean energy generation](https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Solar and renewable energy driving emissions reduction*
 
 ### The Numbers Tell the Story
 
@@ -64,8 +65,6 @@ The SBTi independently measures our progress to decarbonise and ensures our targ
 
 Contact has pioneered sustainable finance in New Zealand, creating new ways to fund the clean energy transition.
 
-![Sustainable finance and green bonds](https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Green finance instruments supporting sustainable investment*
 
 ### Market-Leading Initiatives
 

@@ -1,5 +1,8 @@
 # Tikanga and Te Ao Māori in Our Approach
 
+
+![Tikanga and Te Ao Māori](/courses/contact-energy-sustainability/assets/lesson-images/m1_03_tikanga_te_ao_maori.jpg)
+
 At Contact Energy, we recognise that Aotearoa New Zealand has a unique cultural heritage that shapes how we approach sustainability. Our integration of Tikanga Māori and Te Ao Māori principles isn't just about respect—it's about making better decisions that honour our relationships with tangata whenua, the environment, and future generations.
 
 ## Learning Objectives
@@ -14,8 +17,6 @@ By the end of this lesson, you will be able to:
 
 **Te Ao Māori** is a holistic worldview that emphasises the interconnectedness between people and the environment. This perspective sees humans not as separate from nature, but as part of a connected system where all elements—people, land, water, and living things—are related.
 
-![New Zealand native forest](https://images.unsplash.com/photo-1507699622108-4be3abd695ad?w=800)
-*Image source: [Unsplash](https://unsplash.com) - New Zealand's native forests embody the interconnection between people and environment*
 
 In Te Ao Māori:
 - The natural world has its own mauri (life force)
@@ -48,8 +49,6 @@ When we say "using our Tikanga to make the best decisions for today and tomorrow
 
 **Kaitiakitanga** is the concept of guardianship and protection. It describes the relationship between tangata whenua and the natural world—a relationship of reciprocal care and responsibility.
 
-![River stewardship](https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Rivers and waterways are precious taonga requiring careful stewardship*
 
 At Contact, we recognise:
 - **The kaitiaki relationship** between tangata whenua and water

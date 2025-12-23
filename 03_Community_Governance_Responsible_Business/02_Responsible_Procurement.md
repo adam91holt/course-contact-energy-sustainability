@@ -1,5 +1,8 @@
 # Responsible Procurement and Supply Chain
 
+
+![Responsible Procurement](/courses/contact-energy-sustainability/assets/lesson-images/m3_02_responsible_procurement.jpg)
+
 Contact Energy's sustainability commitment extends beyond our own operations to our entire supply chain. Through responsible procurement, we ensure our suppliers share our values and help us achieve our ESG goals. This lesson explores how we manage sustainability in our supply chain.
 
 ## Learning Objectives
@@ -14,8 +17,6 @@ By the end of this lesson, you will be able to:
 
 Our supply chain has significant environmental and social impacts:
 
-![Supply chain management](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Responsible procurement extends sustainability across our value chain*
 
 ### The Scale of Our Supply Chain
 

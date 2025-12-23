@@ -1,5 +1,8 @@
 # Emissions and Science-Based Targets
 
+
+![Emissions and Science-Based Targets](/courses/contact-energy-sustainability/assets/lesson-images/m2_05_emissions_targets.jpg)
+
 Measuring and reporting emissions is fundamental to achieving our climate goals. Contact Energy was the first electricity company in New Zealand to adopt Science-Based Targets, demonstrating our commitment to credible, verifiable climate action. This lesson explains how we measure emissions and the targets that guide our decarbonisation journey.
 
 ## Learning Objectives
@@ -18,8 +21,6 @@ Greenhouse gases (GHGs) trap heat in the atmosphere, contributing to climate cha
 - **Methane (CH4)**: From natural gas systems
 - **Nitrous oxide (N2O)**: From combustion processes
 
-![Industrial emissions](https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Understanding and reducing emissions is central to climate action*
 
 ## The Three Emission Scopes
 

@@ -1,5 +1,8 @@
 # Sustainable Finance Leadership
 
+
+![Sustainable Finance](/courses/contact-energy-sustainability/assets/lesson-images/m3_03_sustainable_finance.jpg)
+
 Contact Energy has been a pioneer in sustainable finance in New Zealand and the Asia-Pacific region. Our innovative approach to green financing demonstrates that sustainability and financial performance go hand in hand. This lesson explores our sustainable finance initiatives and why they matter.
 
 ## Learning Objectives
@@ -14,8 +17,6 @@ By the end of this lesson, you will be able to:
 
 Sustainable finance refers to financial products and services that integrate environmental, social, and governance (ESG) considerations into investment and lending decisions.
 
-![Sustainable finance and investment](https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Green finance supports sustainable investments*
 
 ### Key Sustainable Finance Instruments
 

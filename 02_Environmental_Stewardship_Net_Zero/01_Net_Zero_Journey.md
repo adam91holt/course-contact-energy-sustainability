@@ -1,5 +1,8 @@
 # Our Net Zero 2035 Journey
 
+
+![Net Zero Journey](/courses/contact-energy-sustainability/assets/lesson-images/m2_01_net_zero_journey.jpg)
+
 Contact Energy has set an ambitious target: net zero emissions from our generation operations by 2035. This lesson explores what this commitment means, how we plan to achieve it, and why it matters for New Zealand's energy future.
 
 ## Learning Objectives
@@ -14,8 +17,6 @@ By the end of this lesson, you will be able to:
 
 **Net zero** means achieving a balance between the greenhouse gases we emit and those we remove from the atmosphere. For Contact, this means our generation operations will either produce no emissions or any remaining emissions will be offset through removal activities.
 
-![Net zero energy concept](https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Clean energy generation is central to achieving net zero*
 
 ### Our Commitment
 
@@ -115,8 +116,6 @@ For any residual emissions that cannot be eliminated, forestry offsets provide a
 
 You might wonder: if we're committed to net zero, why do we still have thermal generation?
 
-![Power system balance](https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Balancing renewable and thermal generation for system reliability*
 
 ### System Security
 

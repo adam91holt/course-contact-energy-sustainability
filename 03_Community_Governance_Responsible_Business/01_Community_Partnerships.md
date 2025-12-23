@@ -1,5 +1,8 @@
 # Community Partnerships and Engagement
 
+
+![Community Partnerships](/courses/contact-energy-sustainability/assets/lesson-images/m3_01_community_partnerships.jpg)
+
 Contact Energy operates across approximately 45 sites throughout New Zealand. Our presence in communities brings both responsibility and opportunity—responsibility to minimise our impact and opportunity to contribute positively to the places where we work. This lesson explores our approach to community engagement and the partnerships that make a difference.
 
 ## Learning Objectives
@@ -14,8 +17,6 @@ By the end of this lesson, you will be able to:
 
 Contact recognises that our actions impact the people and environment around us. Our neighbours—residents and businesses near our operations—are among our most important stakeholders.
 
-![Community engagement](https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Community partnerships strengthen our social impact*
 
 ### Our Priorities
 

@@ -1,5 +1,8 @@
 # Biodiversity and Ecosystem Protection
 
+
+![Biodiversity and Ecosystems](/courses/contact-energy-sustainability/assets/lesson-images/m2_03_biodiversity.jpg)
+
 Contact Energy operates across some of New Zealand's most precious natural environments. Our responsibility extends beyond generating clean electricity—we're committed to protecting and restoring the ecosystems around us. This lesson explores our comprehensive approach to biodiversity and ecosystem protection.
 
 ## Learning Objectives
@@ -14,8 +17,6 @@ By the end of this lesson, you will be able to:
 
 Contact recognises that our operations interact with natural ecosystems. We take our responsibility seriously—not just because it's required, but because protecting biodiversity is essential for the health of our environment and future generations.
 
-![New Zealand native forest ecosystem](https://images.unsplash.com/photo-1507699622108-4be3abd695ad?w=800)
-*Image source: [Unsplash](https://unsplash.com) - New Zealand's unique ecosystems require careful protection*
 
 ### Our Approach
 

@@ -1,5 +1,8 @@
 # Our Sustainability Vision and Purpose
 
+
+![Sustainability Vision](/courses/contact-energy-sustainability/assets/lesson-images/m1_01_sustainability_vision.jpg)
+
 Welcome to Contact Energy's sustainability training course. As a member of the Contact team, you play a vital role in helping us achieve our vision of creating a better Aotearoa New Zealand. This lesson introduces you to our sustainability vision and explains why sustainability is at the heart of everything we do.
 
 ## Learning Objectives
@@ -14,8 +17,6 @@ By the end of this lesson, you will be able to:
 
 At Contact Energy, sustainability isn't just a corporate initiative—it's embedded in our DNA. Our purpose is clear: **to create a better Aotearoa New Zealand**. This means making decisions today that will benefit future generations, protecting our natural resources, and leading the transition to a clean energy future.
 
-![Renewable energy in New Zealand](https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Wind turbines representing renewable energy generation*
 
 As one of New Zealand's largest electricity generators and retailers, we have both the responsibility and the opportunity to drive meaningful change. With over 90% of our generation coming from renewable sources, we're already a leader in clean energy—but we're committed to going further.
 
@@ -42,8 +43,6 @@ Climate change is a real global challenge already impacting communities, economi
 
 This commitment places us at the forefront of New Zealand's energy transition. Since 2012, our scope one and two emissions have reduced by almost 80%—a remarkable achievement that demonstrates what's possible when sustainability is a core priority.
 
-![Geothermal power station](https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800)
-*Image source: [Unsplash](https://unsplash.com) - Geothermal energy represents a key part of Contact's renewable generation*
 
 ## Our Renewable Energy Leadership
 
